@@ -11,7 +11,7 @@ This repository contains amazon clone that were developed to help developers lea
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 ```bash
-<p>git clone https://github.com/khushdiyora/Place-Order-Button.git</p>
+git clone https://github.com/khushdiyora/Place-Order-Button.git
   ```
   
 # Usage
